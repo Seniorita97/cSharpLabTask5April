@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|c:\\users\\pc\\source\\repos\\consoleapp25\\consoleapp25\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|solutionrelative:consoleapp25\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|c:\\users\\pc\\source\\repos\\consoleapp25\\consoleapp25\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|solutionrelative:consoleapp25\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|c:\\users\\pc\\source\\repos\\consoleapp25\\consoleapp25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00B3BB-8FD8-4D0B-AF31-46A11CD58762}|ConsoleApp25\\ConsoleApp25.csproj|solutionrelative:consoleapp25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Gallery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp25\\Gallery.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Gallery.cs",
+              "RelativeToolTip": "ConsoleApp25\\Gallery.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:01:32.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp25\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Car.cs",
+              "RelativeToolTip": "ConsoleApp25\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:58:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp25\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp25\\ConsoleApp25\\Program.cs",
+              "RelativeToolTip": "ConsoleApp25\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:58:36.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
